@@ -1,2 +1,0 @@
-https://www.ll.mit.edu/workshops/education/videocourses/introradar/
-https://electronics.stackexchange.com/questions/288530/uniform-linear-array-ula-beamwidth-and-angular-resolution-using-fft
